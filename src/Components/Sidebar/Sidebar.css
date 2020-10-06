@@ -1,0 +1,10 @@
+.sidebar-tweet {
+  background-color: #50b7f5 !important;
+  border: none !important;
+  color: white !important;
+  font-weight: 900 !important;
+  border-radius: 30px !important;
+  text-transform: inherit !important;
+  height: 50px !important;
+  margin-top: 20px !important;
+}
