@@ -1,0 +1,32 @@
+.post {
+  margin-top: 20px;
+  margin-right: 10px;
+  margin-left: 10px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #e6ecf0;
+}
+
+.post-header {
+  display: flex;
+  align-items: center;
+}
+
+.post-header h3 {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.post-content {
+  align-content: center;
+  padding-top: 10px;
+}
+
+.post-event {
+  display: flex;
+  margin-top: 10px;
+}
+.post-event div {
+  flex: 1;
+  text-align: center;
+  color: #50b7f5;
+}
