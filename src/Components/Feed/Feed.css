@@ -2,6 +2,7 @@
   flex: 0.4;
   border-right: 1px solid #e6ecf0;
   overflow-y: scroll;
+  min-width: 500px;
 }
 
 .feed::-webkit-scrollbar {

@@ -42,3 +42,9 @@
   background-color: #e6ecf0;
   border-radius: 30px;
 }
+
+@media (min-width: 0) and (max-width: 500px) {
+  .widgets {
+    display: none;
+  }
+}

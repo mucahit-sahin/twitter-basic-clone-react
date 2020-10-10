@@ -23,3 +23,9 @@
   height: 50px !important;
   margin-top: 20px !important;
 }
+
+@media (min-width: 0) and (max-width: 500px) {
+  .sidebar {
+    display: none;
+  }
+}
