@@ -11,4 +11,4 @@ Firebase Firestore kullanarak atılan tweetleri veritabanında sakladım.
 
 [Buraya Tıklayın](https://react-twitter-clone-6aa31.web.app)
 
-![site gorsel](https://github.com/mucahit-sahin/netflix-clone-react/blob/master/img/twitter-clone-react.png)
+![site gorsel](https://github.com/mucahit-sahin/twitter-clone-react/blob/master/img/twitter-clone-react.png)
