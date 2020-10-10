@@ -1,0 +1,24 @@
+.friend {
+  display: flex;
+  align-items: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
+
+.friend Avatar {
+  flex: 0.2;
+}
+
+.friend h3 {
+  padding-left: 15px;
+  flex: 0.6;
+}
+
+.friend-follow {
+  background-color: #50b7f5 !important;
+  border-radius: 30px !important;
+  color: white !important;
+  font-weight: 800 !important;
+  flex: 0.2 !important;
+}

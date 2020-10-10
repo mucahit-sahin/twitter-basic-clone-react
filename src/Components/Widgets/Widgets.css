@@ -1,3 +1,44 @@
 .widgets {
   flex: 0.3;
+  margin-top: 10px;
+  margin-left: 20px;
+}
+.widget-search {
+  display: flex;
+  align-items: center;
+  border-radius: 30px;
+  background-color: #e6ecf0;
+  height: 34px;
+}
+
+.widget-search-icon {
+  margin-left: 10px;
+  color: gray;
+}
+
+.widget-search > input {
+  width: 100%;
+  border-radius: 30px;
+  font-size: inherit;
+  text-align: center;
+  border: none;
+  background-color: #e6ecf0;
+}
+
+.widget-tags {
+  margin-top: 30px;
+  background-color: #e6ecf0;
+  border-radius: 30px;
+}
+
+.widget-tags h3 {
+  text-align: center;
+  padding-top: 10px;
+  border-bottom: 1px solid white;
+}
+
+.widget-recommended-friends {
+  margin-top: 30px;
+  background-color: #e6ecf0;
+  border-radius: 30px;
 }
